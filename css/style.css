@@ -1,4 +1,8 @@
-p {
-    text-align: left;
-    color:black;
+html {
+    font-size: 20px;
+}
+
+body {
+    background-color: #333;
+    color:whitesmoke;
 }
